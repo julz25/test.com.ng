@@ -136,13 +136,6 @@
     list-style: none;
 }
 
-.fixed-section li a {
-    font-size: 14px;
-    padding: 2px;
-    display: block;
-    color: #666666;
-}
-
 .fixed-section li a.active {
     color: #00bbff;
 }
